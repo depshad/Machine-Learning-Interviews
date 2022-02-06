@@ -1,3 +1,5 @@
 # Notes
 
-Concise notes to revise various topics in Machine Learning.
+Colection of resources to revise topics in Machine Learning.
+
+https://sebastianraschka.com/faq/
