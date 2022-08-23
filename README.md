@@ -37,3 +37,22 @@ Regression:
 20. How correlation between two variables will change in the presence of an outlier? Will it increase, decrease or remain constant? Explain how, using its formula. (ICICI Lombard)
 21. What are influential and leverage points? Which of them has more effect on the model? (ANZ, Wells Fargo)
 22. Does multicollinearity impact the prediction of a machine learning algorithm? (Wells Fargo)
+
+
+Logistic regression:
+1. What are the different types of loss functions in regression and classification?
+2. What is the difference between R2 and adjusted R2?
+3. What are the basics assumption of linear regression and logistics regression?
+4. How to check for multicollinearity in datasets and do multicollinearity affects the final performance of model?
+5. In linear regression train R2 is 0.95 & test R2 = 0.93 but |y-y`| is large. How is this possible?
+6. How is hypothesis testing used in linear regression?
+7. How to decide feature importance in linear regression?
+8. How do you decide whether your linear regression model fits the data?
+8. What is the formula of loss function in logistics regression?
+9. Why MSE can’t be used as a loss function for logistics regression?
+10. How to decide feature importance in Logistic regression?
+11. What is the difference between L1 and L2 regularization and why L1 create sparsity?
+12. How to do bias & variance tradeoff? How to find out model is overfitting or not?
+13. What are different types of optimization techniques used to train classical ML algorithms and why do we need SGD over GD?
+14. Can we use tanh function in place of sigmoid in logistics regression?
+15. How to do bivariate analysis between a categorical variable and a continuous variable?
