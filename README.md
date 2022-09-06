@@ -56,3 +56,7 @@ Logistic regression:
 13. What are different types of optimization techniques used to train classical ML algorithms and why do we need SGD over GD?
 14. Can we use tanh function in place of sigmoid in logistics regression?
 15. How to do bivariate analysis between a categorical variable and a continuous variable?
+
+
+The p-value is a number, calculated from a statistical test, that describes how likely you are to have found a particular set of observations if the null hypothesis were true. P-values are used in hypothesis testing to help decide whether to reject the null hypothesis.
+P > 0.05 is the probability that the null hypothesis is true. 1 minus the P value is the probability that the alternative hypothesis is true. A statistically significant test result (P ≤ 0.05) means that the test hypothesis is false or should be rejected. A P value greater than 0.05 means that no effect was observed.
