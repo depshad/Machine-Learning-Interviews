@@ -4,6 +4,9 @@ Colection of resources to revise topics in Machine Learning.
 
 https://sebastianraschka.com/faq/
 
+Data Engineering:
+https://docs.google.com/spreadsheets/d/1GOO4s1NcxCR8a44F0XnsErz5rYDxNbHAHznu4pJMRkw/edit#gid=0
+
 
 STATS:
 
